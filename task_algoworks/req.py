@@ -2,10 +2,10 @@ import twitter
 
 
 all_auth = {
-    'access_token': "3021282864-PA48qApRQxPjJs7crqcONZfQZvjBsyHWECAoAaj",
-    'access_token_secret': "YznXV4BP2FOPVbLeuPkheCbH5jVO0lWL4DtD5mvWwal8a",
-    'consumer_key': "S6w3NzIHzOlGty0IN7XbIOU65",
-    'consumer_secret': "Jy4cWGwfJnMHPrBy1C4f9Zcp8NEML6bJlGsdneOAhNQsOz8koQ"
+    'access_token': "xxxxx",
+    'access_token_secret': "xxxx",
+    'consumer_key': "xxxx",
+    'consumer_secret': "xxxx"
     }
 
 api = twitter.Api(consumer_key=all_auth['consumer_key'],
